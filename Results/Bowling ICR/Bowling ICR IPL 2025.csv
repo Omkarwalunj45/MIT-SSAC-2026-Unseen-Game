@@ -1,0 +1,69 @@
+Bowler,Team,Role,Matches,rvap_z,rsf_z,wpa_z,BICR percentile
+Prasidh Krishna,Gujarat Titans,"['Middle', 'Death']",15,1.385576643,1.020314957,1.213578857,100
+Josh Hazlewood,Royal Challengers Bengaluru,"['Powerplay', 'Death']",12,2.293395034,1.785341953,1.701575853,98.50746269
+Jasprit Bumrah,Mumbai Indians,"['Powerplay', 'Death']",12,1.387596202,1.938485325,1.659705364,97.01492537
+Arshdeep Singh,Punjab Kings,"['Powerplay', 'Death']",16,1.405159963,1.017399763,0.984489184,95.52238806
+Krunal Pandya,Royal Challengers Bengaluru,['Middle'],15,1.368698075,0.962750161,1.812576941,94.02985075
+Trent Boult,Mumbai Indians,"['Powerplay', 'Death']",16,1.397395638,1.186625997,0.476587484,92.53731343
+Kuldeep Yadav,Delhi Capitals,['Middle'],14,0.891700316,1.081441356,1.025549181,91.04477612
+Digvesh Rathi,Lucknow Super Giants,['Middle'],13,0.770129396,0.284275831,1.976959781,89.55223881
+Marco Jansen,Punjab Kings,['Powerplay'],14,0.281463151,0.462414712,1.41214455,88.05970149
+Varun Chakravarthy,Kolkata Knight Riders,['Middle'],13,0.184463349,1.049894865,1.334463986,86.56716418
+Noor Ahmad,Chennai Super Kings,"['Middle', 'Death']",14,1.023279831,0.960151091,-0.372915663,85.07462687
+Khaleel Ahmed,Chennai Super Kings,['Powerplay'],14,0.28360969,0.722450699,0.005447184,83.58208955
+Harshal Patel,Sunrisers Hyderabad,['Death'],13,-0.297463872,1.036673752,0.687448158,82.08955224
+Jaydev Unadkat,Sunrisers Hyderabad,['Powerplay'],7,1.647147178,1.484171167,1.481887103,80.59701493
+Sunil Narine,Kolkata Knight Riders,['Middle'],12,-0.247119729,0.428177957,0.89395062,79.10447761
+Pat Cummins,Sunrisers Hyderabad,"['Powerplay', 'Death']",14,0.042584309,0.211335337,0.609923758,77.6119403
+Anshul Kamboj,Chennai Super Kings,['Powerplay'],8,1.153783348,1.363530506,1.067157647,76.11940299
+Sai Kishore,Gujarat Titans,"['Middle', 'Death']",15,0.298361241,0.224690604,-0.280572742,74.62686567
+Vaibhav Arora,Kolkata Knight Riders,"['Powerplay', 'Death']",12,0.857514574,0.871335637,-0.54163143,73.13432836
+Harpreet Brar,Punjab Kings,['Middle'],7,1.240002939,1.252631576,0.408574108,71.64179104
+Vipraj Nigam,Delhi Capitals,['Middle'],13,0.370256456,0.201011078,0.082995849,70.14925373
+Hardik Pandya,Mumbai Indians,['Middle'],14,1.060059337,0.569199296,-0.757654052,68.65671642
+Eshan Malinga,Sunrisers Hyderabad,"['Middle', 'Death']",7,0.533497742,0.871527345,0.129186718,67.1641791
+Moeen Ali,Kolkata Knight Riders,"['Powerplay', 'Middle']",5,1.086067917,1.073962191,0.554624229,65.67164179
+Bhuvneshwar Kumar,Royal Challengers Bengaluru,"['Powerplay', 'Death']",14,0.269243868,0.467317129,-1.389616316,64.17910448
+Ravindra Jadeja,Chennai Super Kings,['Middle'],14,0.165770992,0.155678824,-0.222287177,62.68656716
+Yuzvendra Chahal,Punjab Kings,['Middle'],13,0.498237458,-0.008447527,-0.872802793,61.19402985
+Mitchell Santner,Mumbai Indians,['Middle'],13,-0.125151745,0.045560463,-0.173792253,59.70149254
+Ashwani Kumar,Mumbai Indians,['Death'],7,1.193447706,0.537926452,0.430290975,58.20895522
+Deepak Chahar,Mumbai Indians,['Powerplay'],13,-0.605494731,0.190512024,-0.735903133,56.71641791
+Mitchell Starc,Delhi Capitals,"['Powerplay', 'Death']",11,-0.442145958,0.650121112,0.27609997,55.2238806
+Avesh Khan,Lucknow Super Giants,"['Powerplay', 'Death']",13,-0.437376398,-0.660812137,0.816369535,53.73134328
+Yash Dayal,Royal Challengers Bengaluru,"['Powerplay', 'Death']",15,-1.160721253,-0.80422073,1.347782221,52.23880597
+Mohammed Siraj,Gujarat Titans,"['Powerplay', 'Death']",15,-1.017516362,-0.331756138,-0.317955,50.74626866
+Ravichandran Ashwin,Chennai Super Kings,"['Powerplay', 'Middle']",9,-0.474272925,-0.864672601,0.655174566,49.25373134
+Wanindu Hasaranga,Rajasthan Royals,['Middle'],11,-0.399603355,-0.34882421,-0.071888822,47.76119403
+Will Jacks,Mumbai Indians,['Middle'],8,0.893677313,1.334737653,0.30047529,46.26865672
+Maheesh Theekshana,Rajasthan Royals,['Powerplay'],11,0.011362469,-0.747441505,-0.8127556,44.7761194
+Glenn Maxwell,Punjab Kings,"['Powerplay', 'Middle']",6,0.533261343,0.629196278,0.270123942,43.28358209
+Zeeshan Ansari,Sunrisers Hyderabad,['Middle'],10,-0.316593372,-1.012231702,0.837337603,41.79104478
+Jofra Archer,Rajasthan Royals,"['Powerplay', 'Death']",12,-0.730460353,-0.755841465,0.388179737,40.29850746
+Mukesh Kumar,Delhi Capitals,"['Powerplay', 'Death']",12,0.331659376,-0.239076567,-0.62279264,38.80597015
+Vignesh Puthur,Mumbai Indians,['Middle'],5,0.848739057,1.31114661,-0.59315585,37.31343284
+Arshad Khan,Gujarat Titans,['Powerplay'],9,0.619996337,-0.215927408,0.110110903,35.82089552
+Karn Sharma,Mumbai Indians,"['Middle', 'Death']",5,-0.125798707,0.299941383,0.426213312,34.32835821
+Matheesha Pathirana,Chennai Super Kings,['Death'],12,-1.184810858,-0.342182274,-1.485582662,32.8358209
+Harshit Rana,Kolkata Knight Riders,"['Powerplay', 'Death']",13,-0.480384352,-0.319745497,-1.070145502,31.34328358
+Vijaykumar Vyshak,Punjab Kings,"['Middle', 'Death']",5,-0.582742559,-0.746742263,1.323161085,29.85074627
+Axar Patel,Delhi Capitals,"['Powerplay', 'Middle']",12,-1.145056336,-0.838485867,-1.479922737,28.35820896
+Shardul Thakur,Lucknow Super Giants,"['Powerplay', 'Death']",10,0.141922732,0.031981715,-1.076425834,26.86567164
+Sandeep Sharma,Rajasthan Royals,"['Powerplay', 'Death']",10,-0.916931598,-0.97810582,0.525058762,25.37313433
+Romario Shepherd,Royal Challengers Bengaluru,['Middle'],7,0.308561927,0.433895049,-0.789699156,23.88059701
+Rashid Khan,Gujarat Titans,['Middle'],15,-2.209369075,-1.757480727,-0.103720292,22.3880597
+Andre Russell,Kolkata Knight Riders,['Death'],9,0.288827023,-1.23241793,0.367843528,20.89552239
+Riyan Parag,Rajasthan Royals,['Middle'],9,-0.485794993,-0.898914108,0.079791338,19.40298507
+Ravi Bishnoi,Lucknow Super Giants,['Middle'],11,-0.954879652,-1.004174861,-1.504168255,17.91044776
+Suyash Sharma,Royal Challengers Bengaluru,['Middle'],14,-2.228718309,-1.036943954,-1.338097707,16.41791045
+Mohammed Shami,Sunrisers Hyderabad,['Powerplay'],9,-1.108515235,-0.975164469,-1.276224806,14.92537313
+Tushar Deshpande,Rajasthan Royals,"['Powerplay', 'Death']",10,-0.527596073,-0.626892216,-0.752747197,13.43283582
+Azmatullah Omarzai,Punjab Kings,"['Powerplay', 'Death']",8,-0.427141402,-0.357437255,-0.975940526,11.94029851
+Prince Yadav,Lucknow Super Giants,"['Middle', 'Death']",6,-1.044649508,-1.068679455,-1.659113357,10.44776119
+Akash Deep,Lucknow Super Giants,['Powerplay'],6,-0.818232845,-1.133626683,-0.774966266,8.955223881
+Mohit Sharma,Delhi Capitals,"['Middle', 'Death']",8,-1.487524684,-1.561203661,-0.779538209,7.462686567
+Fazalhaq Farooqi,Rajasthan Royals,['Powerplay'],5,-1.465119363,-1.150919044,-0.476897581,5.970149254
+Sam Curran,Chennai Super Kings,['Middle'],5,-0.398411298,-1.266130712,-1.302848092,4.47761194
+Marcus Stoinis,Punjab Kings,['Middle'],9,-1.234655088,-1.777252919,-1.022560247,2.985074627
+Ishant Sharma,Gujarat Titans,"['Powerplay', 'Death']",7,-1.257808147,-1.510036985,-0.717641753,1.492537313
+Dushmantha Chameera,Delhi Capitals,"['Powerplay', 'Death']",6,-0.728389801,-1.576019156,-1.320875669,0
