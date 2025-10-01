@@ -4,9 +4,9 @@ This repository supports the research to be presented in the MIT Sloan Sports An
 
 ## Repository Structure
 
-- **/Dataset**: Contains ball-by-ball (bbb) data used as the foundation for this research. Note: The raw dataset requires cleaning and preprocessing, which is not included in the code to maintain data integrity and focus on the metric calculations.
-- **/Results**: Includes computed ICR and BICR values for 2025 IPL players, derived from the processed data. These results reflect the application of the novel metric and are intended for validation and analysis purposes.
-- **/ICR_project_code**: Contains Python code snippets specifically for calculating ICR and BICR. This is provided to encourage open-source collaboration, aligning with SSAC’s communal spirit.
+- **Dataset**: Contains ball-by-ball (bbb) data used as the foundation for this research. Note: The raw dataset requires cleaning and preprocessing, which is not included in the code to maintain data integrity and focus on the metric calculations.
+- **Results**: Includes computed ICR and BICR values for 2025 IPL players, derived from the processed data. These results reflect the application of the novel metric and are intended for validation and analysis purposes.
+- **ICR_project_code**: Contains Python code snippets specifically for calculating ICR and BICR. This is provided to encourage open-source collaboration, aligning with SSAC’s communal spirit.
 
 ## Purpose
 This work introduces ICR and BICR, metrics that blend match context, venue-wise performance, and role-based volatility to uncover hidden player value in T20 cricket. The methodology integrates Venue-Adjusted Performance (VAP), Win-Probability Added (WPA), and a Role Stability Factor (RSF) to optimize team strategies, as explored in the 2025 IPL context.
